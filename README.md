@@ -32,6 +32,7 @@ This repository contains a **BMW car sales dataset** spanning **2010 to 2024**, 
 ## Interactive Dashboard
 Explore the full **interactive Excel dashboard** with pivot charts and slicers here:  
 [View Dashboard](./BMW%20sales%20data%20%281%29.xlsx)
+*Note: Please download the file to view the interactive Excel dashboard.*
 
 ## Dataset Source
 Dataset retrieved from **[Kaggle](https://www.kaggle.com/datasets/amlgamal1/bmwwwwwwwwwwww)**.
